@@ -1,0 +1,9 @@
+com\youssef\filesprocessor\config\ProcessorsConfig.class
+com\youssef\filesprocessor\processors\FileProcessor.class
+com\youssef\filesprocessor\FilesProcessor.class
+com\youssef\filesprocessor\processors\XmlFileProcessor.class
+com\youssef\filesprocessor\processors\Processors.class
+com\youssef\filesprocessor\config\SearchReplaceEngineConfig.class
+com\youssef\filesprocessor\searchreplace\SearchReplaceObject.class
+com\youssef\filesprocessor\searchreplace\SearchReplaceEngine.class
+com\youssef\filesprocessor\processors\TextFileProcessor.class
